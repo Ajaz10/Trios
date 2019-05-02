@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TRIO</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up !</string>
+    <string-array name="place_array">
+        <item>Thrissur</item>
+        <item>Palakkad</item>
+        <item>Kochi</item>
+
+    </string-array>
+</resources>
